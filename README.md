@@ -1,0 +1,1 @@
+This repository demonstrates a common Lua error: attempting to perform arithmetic on a string value. The `foo` function intends to double a number, but it fails when given a string.  The solution shows how to handle this by adding explicit type checking.
